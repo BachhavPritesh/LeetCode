@@ -1,0 +1,16 @@
+// Last updated: 4/17/2026, 7:48:18 PM
+class Solution {
+public:
+    int firstUniqChar(string s) {
+        unordered_map<char, int> freq;
+    for (char c : s) {
+        freq[c]++;
+    }
+    for (int i = 0; i < s.size(); i++) {
+        if (freq[s[i]] == 1) {
+            return i;
+        }
+    }
+    return -1;
+    }
+};
