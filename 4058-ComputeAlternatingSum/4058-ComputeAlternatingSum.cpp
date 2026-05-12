@@ -1,0 +1,16 @@
+// Last updated: 5/12/2026, 2:38:55 PM
+class Solution {
+public:
+    int alternatingSum(vector<int>& nums) {
+        int res=0;
+        for(int i = 0;i<nums.size();i++){
+            if(i%2==0){
+                res+=nums[i];
+            }
+            else{
+                res-=nums[i];
+            }
+        }
+        return res;
+    }
+};
