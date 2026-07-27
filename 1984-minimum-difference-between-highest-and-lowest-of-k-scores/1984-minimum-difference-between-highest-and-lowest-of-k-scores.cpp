@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDifference(vector<int>& nums, int k) {
-        // If only one student is chosen, difference is 0
+     
         if (k == 1) return 0;
 
         sort(nums.begin(), nums.end());
