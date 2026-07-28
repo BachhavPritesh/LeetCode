@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Dynamic Programming
 |  |
@@ -49,9 +50,14 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
