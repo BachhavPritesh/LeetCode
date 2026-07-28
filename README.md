@@ -38,4 +38,20 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
