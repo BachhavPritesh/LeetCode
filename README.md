@@ -10,6 +10,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -60,4 +63,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
