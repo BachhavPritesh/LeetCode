@@ -10,6 +10,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
