@@ -11,6 +11,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [1025-divisor-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
