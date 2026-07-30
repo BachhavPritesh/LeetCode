@@ -96,4 +96,8 @@
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/BachhavPritesh/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
