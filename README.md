@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +104,12 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/BachhavPritesh/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/BachhavPritesh/LeetCode/tree/master/0577-employee-bonus) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
