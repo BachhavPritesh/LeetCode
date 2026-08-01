@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/BachhavPritesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -40,6 +41,7 @@
 | [0016-3sum-closest](https://github.com/BachhavPritesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
