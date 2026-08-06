@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BachhavPritesh/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/BachhavPritesh/LeetCode/tree/master/0038-count-and-say) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
