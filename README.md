@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BachhavPritesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
@@ -21,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0001-two-sum) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
