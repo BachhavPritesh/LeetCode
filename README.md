@@ -69,6 +69,7 @@
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BachhavPritesh/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -139,6 +140,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/BachhavPritesh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BachhavPritesh/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
