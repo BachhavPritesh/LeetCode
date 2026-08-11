@@ -20,6 +20,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/BachhavPritesh/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0001-two-sum) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/BachhavPritesh/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0206-reverse-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BachhavPritesh/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/BachhavPritesh/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
