@@ -15,6 +15,7 @@
 | [0896-monotonic-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/BachhavPritesh/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -54,6 +55,7 @@
 | [0414-third-maximum-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/BachhavPritesh/LeetCode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/BachhavPritesh/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
