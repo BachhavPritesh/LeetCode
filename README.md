@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/BachhavPritesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
 | [0318-maximum-product-of-word-lengths](https://github.com/BachhavPritesh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0414-third-maximum-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0414-third-maximum-number) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/BachhavPritesh/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
