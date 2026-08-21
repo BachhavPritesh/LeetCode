@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/BachhavPritesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/BachhavPritesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
 | [0318-maximum-product-of-word-lengths](https://github.com/BachhavPritesh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -117,6 +118,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BachhavPritesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/BachhavPritesh/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
@@ -200,5 +202,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BachhavPritesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
