@@ -36,6 +36,7 @@
 | [0036-valid-sudoku](https://github.com/BachhavPritesh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/BachhavPritesh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1995-count-special-quadruplets](https://github.com/BachhavPritesh/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/BachhavPritesh/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/BachhavPritesh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/BachhavPritesh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/BachhavPritesh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -224,4 +227,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/BachhavPritesh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
