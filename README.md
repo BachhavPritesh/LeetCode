@@ -84,6 +84,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BachhavPritesh/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1927-sum-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/BachhavPritesh/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## String
 |  |
@@ -115,6 +117,7 @@
 | [0038-count-and-say](https://github.com/BachhavPritesh/LeetCode/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/BachhavPritesh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/BachhavPritesh/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/BachhavPritesh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/BachhavPritesh/LeetCode/tree/master/0561-array-partition) |
+| [1927-sum-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BachhavPritesh/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
