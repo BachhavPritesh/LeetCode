@@ -13,19 +13,16 @@ class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
        
-        if (head == nullptr || head->next == nullptr)
-            return head;
+       if(head==nullptr || head->next==nullptr){
+        return head;
+       }
 
-      
-        ListNode* first = head;
-        ListNode* second = head->next;
+       ListNode* first = head;
+       ListNode* second = head->next;
 
-        first->next = swapPairs(second->next);
+       first->next = swapPairs(second->next);
+       second->next = first;
 
-       
-        second->next = first;
-
-        
-        return second;
+       return second;
     }
 };
