@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/BachhavPritesh/LeetCode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1025-divisor-game) |
