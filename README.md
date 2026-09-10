@@ -21,6 +21,7 @@
 | [0896-monotonic-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/BachhavPritesh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BachhavPritesh/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/BachhavPritesh/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BachhavPritesh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/BachhavPritesh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
