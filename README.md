@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/BachhavPritesh/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/BachhavPritesh/LeetCode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/BachhavPritesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BachhavPritesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/BachhavPritesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BachhavPritesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -114,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BachhavPritesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [1025-divisor-game](https://github.com/BachhavPritesh/LeetCode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BachhavPritesh/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BachhavPritesh/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BachhavPritesh/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
