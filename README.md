@@ -19,6 +19,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/BachhavPritesh/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0414-third-maximum-number](https://github.com/BachhavPritesh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/BachhavPritesh/LeetCode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/BachhavPritesh/LeetCode/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BachhavPritesh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BachhavPritesh/LeetCode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0682-baseball-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/BachhavPritesh/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/BachhavPritesh/LeetCode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/BachhavPritesh/LeetCode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BachhavPritesh/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
